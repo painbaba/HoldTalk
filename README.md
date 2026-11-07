@@ -9,7 +9,7 @@ It runs locally with whisper.cpp, with no accounts and no telemetry.
 | --- | --- |
 | Hold `fn` | Records while held, then pastes on release |
 | Double-tap `fn` | Records hands-free. One more tap stops and pastes. |
-| Press Esc | Cancels the recording or transcription |
+| Press Esc | Pauses the recording with a 5-second undo: press the hotkey again to keep going, or the audio is deleted. Still kills a transcription. |
 
 ## Install
 
